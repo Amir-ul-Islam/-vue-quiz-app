@@ -23,5 +23,6 @@ const singleQuestion = computed(() => {
       {{ next }}, {{ singleQuestion }}
       <button @click="next++" class="btn btn-danger mt-3">Next</button>
       <!-- <button @click="ne()" class="btn btn-danger mt-3">Next</button> -->
+      <!-- <button @click="ne()" class="btn btn-danger mt-3">Next</button> -->
    </div>
 </template>
