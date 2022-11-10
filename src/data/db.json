@@ -1,0 +1,233 @@
+[
+   {
+      "id": 1,
+      "name": "PHP",
+      "img": "https://pngimg.com/uploads/php/php_PNG25.png",
+      "questions": [
+         {
+            "id": 1,
+            "qus": "PHP stands for?",
+            "option": [
+               {
+                  "id": 1,
+                  "text": "Personal Home Processor",
+                  "isCorrect": false
+               },
+               {
+                  "id": 2,
+                  "text": "Pretext Hypertext Preprocessor",
+                  "isCorrect": false
+               },
+               {
+                  "id": 3,
+                  "text": "Hypertext Preprocessor",
+                  "isCorrect": true
+               }
+            ]
+         },
+         {
+            "id": 2,
+            "qus": "Who is known as the father of PHP?",
+            "option": [
+               {
+                  "id": 1,
+                  "text": "Rasmus Lerdrof",
+                  "isCorrect": true
+               },
+               {
+                  "id": 2,
+                  "text": "List Barely",
+                  "isCorrect": false
+               },
+               {
+                  "id": 3,
+                  "text": "Drek Kolkevi",
+                  "isCorrect": false
+               }
+            ]
+         },
+         {
+            "id": 3,
+            "qus": "Variable name in PHP starts with?",
+            "option": [
+               {
+                  "id": 1,
+                  "text": "& (Ampersand)",
+                  "isCorrect": false
+               },
+               {
+                  "id": 2,
+                  "text": "$ (Dollar)",
+                  "isCorrect": true
+               },
+               {
+                  "id": 3,
+                  "text": "! (Exclamation)",
+                  "isCorrect": false
+               }
+            ]
+         },
+         {
+            "id": 4,
+            "qus": "Which of the following is not a variable scope in PHP?",
+            "option": [
+               {
+                  "id": 1,
+                  "text": "Static",
+                  "isCorrect": false
+               },
+               {
+                  "id": 2,
+                  "text": "Extern",
+                  "isCorrect": true
+               },
+               {
+                  "id": 3,
+                  "text": "Local",
+                  "isCorrect": false
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Javascript",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png",
+      "questions": [
+         {
+            "id": 1,
+            "qus": "The function and var are known as:",
+            "option": [
+               {
+                  "id": 1,
+                  "text": "Keywords",
+                  "isCorrect": false
+               },
+               {
+                  "id": 2,
+                  "text": "Data types",
+                  "isCorrect": false
+               },
+               {
+                  "id": 3,
+                  "text": "Declaration statements",
+                  "isCorrect": true
+               }
+            ]
+         },
+         {
+            "id": 2,
+            "qus": "Which of the following is correct about JavaScript?",
+            "option": [
+               {
+                  "id": 1,
+                  "text": " JavaScript is an Object-Oriented language",
+                  "isCorrect": false
+               },
+               {
+                  "id": 2,
+                  "text": " JavaScript is Assembly-language",
+                  "isCorrect": false
+               },
+               {
+                  "id": 3,
+                  "text": " JavaScript is an Object-Based language",
+                  "isCorrect": true
+               }
+            ]
+         },
+         {
+            "id": 3,
+            "qus": "Which of the following is not javascript data types?",
+            "option": [
+               {
+                  "id": 1,
+                  "text": "Undefined type",
+                  "isCorrect": false
+               },
+               {
+                  "id": 2,
+                  "text": " Null type",
+                  "isCorrect": false
+               },
+               {
+                  "id": 3,
+                  "text": "All of the mentioned",
+                  "isCorrect": true
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "name": "Vue.Js",
+      "img": "https://vuejs.org/images/logo.png",
+      "questions": [
+         {
+            "id": 1,
+            "qus": "Which of the following data binding interpolation is also known as Mustache syntax?",
+            "option": [
+               {
+                  "id": 1,
+                  "text": "v-on",
+                  "isCorrect": false
+               },
+               {
+                  "id": 2,
+                  "text": "v-model",
+                  "isCorrect": false
+               },
+               {
+                  "id": 3,
+                  "text": "{{}}",
+                  "isCorrect": true
+               }
+            ]
+         },
+         {
+            "id": 2,
+            "qus": "Which of the following is the correct syntax to use for loop in Vue.js?",
+            "option": [
+               {
+                  "id": 1,
+                  "text": "*v-for",
+                  "isCorrect": false
+               },
+               {
+                  "id": 2,
+                  "text": "vFor",
+                  "isCorrect": false
+               },
+               {
+                  "id": 3,
+                  "text": "v-for",
+                  "isCorrect": true
+               }
+            ]
+         },
+         {
+            "id": 3,
+            "qus": "Which of the following is the advantage of using Vue.js?",
+            "option": [
+               {
+                  "id": 1,
+                  "text": "Vue.js is flexible in nature.",
+                  "isCorrect": false
+               },
+               {
+                  "id": 2,
+                  "text": "Vue.js is very small in size.",
+                  "isCorrect": false
+               },
+               {
+                  "id": 3,
+                  "text": "All of the above.",
+                  "isCorrect": true
+               }
+            ]
+         }
+      ]
+   }
+]
