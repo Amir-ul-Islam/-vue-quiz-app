@@ -10,9 +10,9 @@ const searchString = ref("");
 
 //search func
 function searchFunc(searchString) {
-   const search = data.filter((value)=>{
-      return value.name.toLowerCase().startsWith(searchString);
-   })
+   const search = data.filter((value) => {
+      return value.name.toLowerCase().includes(searchString);
+   });
    allQuestionsData.value = search;
 }
 </script>
