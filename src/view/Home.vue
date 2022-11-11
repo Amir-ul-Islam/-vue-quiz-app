@@ -26,7 +26,7 @@ function searchFunc(searchString) {
             <nav class="navbar bg-transparent">
                <div class="container-fluid">
                   <form class="d-flex bg-transparent" role="search">
-                     <!-- search here any contact -->
+                     <!-- search here -->
                      <input
                         class="form-control border-info m-2 bg-transparent"
                         @input="searchFunc(searchString)"
