@@ -10,6 +10,12 @@ A small quiz app built with vuejs. Json server is used in the backend server.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+![App Home](https://i.ibb.co/DkM1ZXR/quiz1.jpg)
+
+![App Home](https://i.ibb.co/WfNmf8v/quiz2.jpg)
+
+![App Home](https://i.ibb.co/Lk5Gc18/quiz3.jpg)
+
 ## Project Setup
 
 ```sh
