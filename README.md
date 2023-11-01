@@ -1,6 +1,6 @@
 # quizApp
 
-This template should help get you started developing with Vue 3 in Vite.
+A small quiz app built with vuejs. Json server is used in the backend server.
 
 ## Recommended IDE Setup
 
